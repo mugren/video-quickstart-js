@@ -68,5 +68,8 @@
     "copyfiles": "^1.2.0",
     "npm-run-all": "^4.0.2",
     "rimraf": "^2.6.1"
+  },
+  "engines": {
+    "node": "12.20.1"
   }
 }
